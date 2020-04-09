@@ -2,8 +2,7 @@
 A Digital Image Processing project performed on MATLAB to predict the largest dimension of any or all the objects in an Image.
 
 # Prerequisites
-MATLAB 
-Image Processing Toolbox
+MATLAB + Image Processing Toolbox
 
 # Concepts
 Image Segmentation : Image segmentation is a commonly used technique in digital image processing and analysis to partition an image into multiple parts or regions, often based on the characteristics of the pixels in the image. Image segmentation involves converting an image into a collection of regions of pixels that are represented by a mask or a labeled image. By dividing an image into segments, you can process only the important segments of the image instead of processing the entire image. 
