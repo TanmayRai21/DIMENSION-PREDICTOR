@@ -12,8 +12,8 @@ Spatial Calibration to negate the segmented image and filter out the noise.
 
 # FUNCTIONS USED
 
-•	imread(filename) - Read image from graphics file\n
-•	imshow(I) - Display image
+•	imread(filename) - Read image from graphics file \
+•	imshow(I) - Display image\
 •	im2bw(I,level) - Convert image to binary image, based on threshold
 •	imfill(BW,locations) - Fill image regions and holes
 •	imclose(Ifilled,se) - Morphologically close image
