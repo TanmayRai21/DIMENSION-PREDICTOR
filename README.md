@@ -33,6 +33,7 @@ The threshold for (R, G, B) Matrices is 0.38, 0.35 and 0.38 for the images of th
 -	Bright spots and shadows in the image can cause errors in object detection. Therefore, Image Enhancement techniques have to be used enhance the image before performing the Image Segmentation
 -	The threshold values do not work for all kinds of images. A algorithm has to be devised to make the threshold values adapt to the contents of the image.  
 
-**_By   Tanmay Rai_**\
-     **_Paulson K Antony_**\
-     **_Jatin Kumar_**
+# By
+**_Tanmay Rai_**\
+**_Paulson K Antony_**\
+**_Jatin Kumar_**
